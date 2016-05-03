@@ -1,3 +1,6 @@
+FROM jpeffer/docker-rvm:latest
+MAINTAINER Steven Arkonovich <sarkonovich@gmail.com>
+
 WORKDIR /code
 
 # Install additional dependencies
