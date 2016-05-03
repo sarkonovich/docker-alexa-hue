@@ -1,4 +1,4 @@
-FROM tzenderman/docker-rvm:latest
+FROM jpeffer/docker-rvm:latest
 MAINTAINER Steven Arkonovich <sarkonovich@gmail.com>
 
 WORKDIR /code
